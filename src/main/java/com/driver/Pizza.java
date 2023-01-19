@@ -44,6 +44,7 @@ public class Pizza {
 
     public void addTakeaway(){
        price+=20;
+       price+=0;
        takeaway=true;
     }
 
